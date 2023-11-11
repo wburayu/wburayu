@@ -1,6 +1,6 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/welelaburayu/" target="_blank"> Welela Burayu </a></h1>
 
-A bit about Myself, I am <b>Welela Burayu</b> pursuing my <b>Computer Science Degree</b> currently in my final year, As of now, I am focused on <b>Full Stack Web Development, Cloud Computing and Machine Learning </b> but still, wish to explore many fields. ⚡
+A bit about myself, my name is <b>Welela Burayu</b> and I am pursuing a <b>Computer Science Degree</b> at Rhodes College in my final year. As of now, I am focused on <b>Full Stack Web Development, Cloud Computing and Machine Learning </b> but still, wish to explore many fields. ⚡
 
 <h3 align="center"> Passionate Web Developer | Machine Learning Enthusiast </h3>
 
